@@ -1,0 +1,23 @@
+{
+    "oggetto": {
+        "stringa": "Ciao",
+        "numero": 10,
+        "lista_di_interi": [
+            10,
+            20,
+            30
+        ]
+    },
+    "soggetto": {
+        "stringa": "Ciao",
+        "numero": 10,
+        "lista_di_interi": [
+            10,
+            20,
+            30
+        ]
+    },
+    "stringa": "Ciao",
+    "numero": 10,
+    "decimale": 0.4
+}
